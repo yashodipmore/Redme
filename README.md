@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yashodip More
 =====================================================================================================================================
 
-Web Developer & Designer
+NonCsStudent
 ------------------------
 
 Currently pursuing B.Tech in Electrical Engineering from R.C. Patel Institute Of Technology ,Shirpur.A Non-Computer Science Student Having good knowledge in programming like frontend development , backend development and also software development. I am interested in both electrical and computer engineering.
